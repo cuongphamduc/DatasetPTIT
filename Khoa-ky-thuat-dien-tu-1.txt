@@ -1,0 +1,116 @@
+I.Giới thiệu chung - Khoa kỹ thuật điện tử 1
+url: https://sea.ptit.edu.vn/gioi-thieu/gioi-thieu-chung/
+
+| **Thông tin**   | **Chi tiết**                                        |
+| --------------- | --------------------------------------------------- |
+| **Địa chỉ**     | Tầng 9, nhà A2, Km10, Nguyễn Trãi, Hà Đông, Hà Nội  |
+| **Website**     | [https://sea.ptit.edu.vn](https://sea.ptit.edu.vn)  |
+| **Email**       | [ktdt1.ptit@gmail.com](mailto:ktdt1.ptit@gmail.com) |
+| **Điện thoại**  | 0877 189 186                                        |
+| **Trưởng khoa** | TS. Nguyễn Trung Hiếu                               |
+
+
+Tổng quan:
+ - Khoa Kỹ thuật Điện tử I tại Học viện Công nghệ Bưu chính Viễn thông (PTIT) được biết đến là một trong những đơn vị đào tạo hàng đầu về ngành Kỹ thuật Điện tử tại Việt Nam. Đây không chỉ là nơi cung cấp kiến thức mà còn là môi trường giúp sinh viên phát triển toàn diện, chuẩn bị sẵn sàng đối mặt với những thay đổi nhanh chóng của thế giới công nghệ đặc biệt là các lĩnh vực Kỹ thuật Điện-Điện tử, Kỹ thuật Điều khiển và Tự động hóa, Robot.
+ - Tại khoa Kỹ thuật Điện tử I, sinh viên được học tập và nghiên cứu cùng đội ngũ giảng viên giàu kinh nghiệp trong giảng dạy và nghiên cứu với 100% các giảng viên có trình độ thạc sĩ trở lên bao gồm nhiều phó giáo sư và tiến sĩ; đặc biệt có sự cố vấn của các giáo sư, chuyên gia hàng đầu đến từ các đại học của Nhật Bản, Úc và Châu Âu.
+ - Bên cạnh đó sinh viên khoa Kỹ thuật Điện tử I không chỉ được cung cấp các kiến thức nền tảng về lĩnh vực điện tử và tự động hóa mà còn được đào tạo, thực hành và nghiên cứu tại các phòng thí nghiệm hiện đại như lab Rạng Đông (IoT và Hệ thống nhúng), lab Thiết kế điện tử tự động (EDA), lab Điện tử và Điều khiển thông minh (EIC).
+ - Các phòng lab được trang bị nhiều thiết bị hiện đại cung cấp bởi các đối tác hàng đầu trên thế giới về điện tử, vi mạch và tự động hóa như ARM, Synopsys, Keysight, Intel, Xilinx, STMicrochip, Mentor, Altium, Siemens, Cadence, Dobot, Hiwonder,… bao gồm các bộ thiết bị phát triển hệ thống nhúng, hệ thống số, IoT, thiết bị đo lường và điều khiển độ chính xác cao, phần mềm thiết kế mạch và vi mạch chuyên dụng, cánh tay robot công nghiệp, robot tự hành (AGV), máy bay không người lái (UAV),…
+
+II.Cơ cấu tổ chức - Kỹ thuật điện tử 1
+url: https://sea.ptit.edu.vn/gioi-thieu/co-cau-to-chuc/
+
+Mô hình tổ chức khoa KTĐT 1
+Khoa KTĐT 1 (đỉnh sơ đồ)
+
+Hội đồng Khoa
+Công đoàn Khoa
+Văn phòng Khoa:
+ - Bộ môn Điều khiển và Tự động hóa
+ - Bộ môn Điện tử máy tính
+ - Bộ môn Xử lý tín hiệu và Truyền thông
+
+
+Bộ môn Điện tử máy tính:
+| STT | Họ và tên                | Chức vụ          |
+| --- | ------------------------ | ---------------- |
+| 1   | PGS.TS. Trương Cao Dũng  | Trưởng Bộ môn    |
+| 2   | TS. Nguyễn Trung Hiếu    | Giảng viên       |
+| 3   | TS. Nguyễn Ngọc Minh     | Giảng viên       |
+| 4   | TS. Lê Minh Tuấn         | Giảng viên       |
+| 5   | TS. Chu Văn Bền          | Giảng viên       |
+| 6   | TS. Vũ Anh Đào           | Giảng viên chính |
+| 7   | TS. Dương Quang Duy      | Giảng viên       |
+| 8   | TS. Phan Thị Lan         | Giảng viên       |
+| 9   | ThS. Lương Công Duẩn     | Giảng viên       |
+| 10  | ThS. Trần Thị Thanh Thủy | Giảng viên       |
+| 11  | ThS. Đào Thanh Huyền     | Giảng viên       |
+| 12  | ThS. Nguyễn Quang Biên   | Giảng viên       |
+| 13  | KS. Vương Viết Thao      | Giảng viên       |
+
+Bộ môn Xử lý tín hiệu và Truyền thông:
+| STT | Họ và tên                 | Chức vụ          |
+| --- | ------------------------- | ---------------- |
+| 1   | TS. Trần Thị Thục Linh    | Trưởng Bộ môn    |
+| 2   | TS. Trần Thị Thúy Hà      | Giảng viên chính |
+| 3   | TS. Nguyễn Thị Hương Thảo | Giảng viên chính |
+| 4   | TS. Trần Tuấn Anh         | Giảng viên       |
+| 5   | ThS. Lê Đức Toàn          | Giảng viên       |
+| 6   | ThS. Bùi Thị Dân          | Giảng viên chính |
+| 7   | ThS. Nguyễn Quốc Dinh     | Giảng viên chính |
+| 8   | ThS. Trương Minh Đức      | Giảng viên       |
+| 9   | ThS. Phạm Văn Sự          | Giảng viên chính |
+
+Bộ môn Điều khiển và Tự động hóa:
+| STT | Họ và tên            | Chức vụ          |
+| --- | -------------------- | ---------------- |
+| 1   | TS. Mai Thị Nghĩa    | Trưởng Bộ môn    |
+| 2   | TS. Phạm Hoàng Anh   | Giảng viên       |
+| 3   | TS. Đỗ Duy Hiệp      | Giảng viên       |
+| 4   | TS. Nguyễn Thế Vĩnh  | Giảng viên chính |
+| 5   | TS. Hoàng Sơn        | Giảng viên chính |
+| 6   | TS. Nguyễn Văn Thắng | Giảng viên       |
+| 7   | TS. Nguyễn Quốc Uy   | Giảng viên       |
+| 8   | TS. Trịnh Trung Hiếu | Giảng viên       |
+| 9   | ThS. Chu Văn Cường   | Giảng viên       |
+| 10  | ThS. Đinh Quang Ngọc | Giảng viên       |
+
+III.Đội ngũ giảng viên - Kỹ thuật điện tử 1
+url: https://sea.ptit.edu.vn/gioi-thieu/doi-ngu-giang-vien/
+
+| **Họ tên**                | **Chức vụ**                                 | **Email**                                           | **Lý lịch khoa học** |
+| ------------------------- | ------------------------------------------- | --------------------------------------------------- | -------------------- |
+| TS. Nguyễn Trung Hiếu     | Trưởng khoa KTĐT1                           | [hieunt@ptit.edu.vn](mailto:hieunt@ptit.edu.vn)     | Lý lịch khoa học     |
+| PGS. Trương Cao Dũng      | Trưởng Bộ môn Điện tử máy tính              | [dungtc@ptit.edu.vn](mailto:dungtc@ptit.edu.vn)     | Lý lịch khoa học     |
+| TS. Trần Thị Thục Linh    | Trưởng Bộ môn Xử lý tín hiệu & Truyền thông | [Linhttt@ptit.edu.vn](mailto:Linhttt@ptit.edu.vn)   | Lý lịch khoa học     |
+| TS. Mai Thị Nghĩa         | Trưởng Bộ môn Điều khiển & Tự động hóa      | [nghiamt@ptit.edu.vn](mailto:nghiamt@ptit.edu.vn)   | Lý lịch khoa học     |
+| TS. Nguyễn Ngọc Minh      | Trưởng lab nghiên cứu                       | [minhnn@ptit.edu.vn](mailto:minhnn@ptit.edu.vn)     | Lý lịch khoa học     |
+| TS. Lê Minh Tuấn          | Trưởng lab nghiên cứu                       | [tuanlm@ptiti.edu.vn](mailto:tuanlm@ptiti.edu.vn)   | Lý lịch khoa học     |
+| TS. Vũ Anh Đào            | Giảng viên chính                            | [daova@ptit.edu.vn](mailto:daova@ptit.edu.vn)       | Lý lịch khoa học     |
+| TS. Hoàng Sơn             | Giảng viên chính                            | [hoangson@ptit.edu.vn](mailto:hoangson@ptit.edu.vn) | Lý lịch khoa học     |
+| TS. Trần Thị Thúy Hà      | Giảng viên chính                            | [hatt@ptit.edu.vn](mailto:hatt@ptit.edu.vn)         | Lý lịch khoa học     |
+| TS. Phan Thị Lan          | Giảng viên                                  | [lanpt@ptit.edu.vn](mailto:lanpt@ptit.edu.vn)       | Lý lịch khoa học     |
+| TS. Chu Văn Bền           | Giảng viên                                  | [bencv@ptit.edu.vn](mailto:bencv@ptit.edu.vn)       | Lý lịch khoa học     |
+| TS. Nguyễn Thế Vĩnh       | Giảng viên chính                            | [vinhnt@ptit.edu.vn](mailto:vinhnt@ptit.edu.vn)     | Lý lịch khoa học     |
+| TS. Nguyễn Quốc Uy        | Giảng viên                                  | [uynq@ptit.edu.vn](mailto:uynq@ptit.edu.vn)         | Lý lịch khoa học     |
+| TS. Trịnh Trung Hiếu      | Giảng viên                                  | [hieutt@ptit.edu.vn](mailto:hieutt@ptit.edu.vn)     | Lý lịch khoa học     |
+| TS. Đỗ Duy Hiệp           | Giảng viên                                  | [hiepdd@ptit.edu.vn](mailto:hiepdd@ptit.edu.vn)     | Lý lịch khoa học     |
+| TS. Phạm Hoàng Anh        | Giảng viên                                  | [anhph@ptit.edu.vn](mailto:anhph@ptit.edu.vn)       | Lý lịch khoa học     |
+| TS. Nguyễn Thị Hương Thảo | Giảng viên chính                            | [thaonth@ptit.edu.vn](mailto:thaonth@ptit.edu.vn)   | Lý lịch khoa học     |
+| TS. Trần Tuấn Anh         | Giảng viên                                  | [anhtt@ptiti.edu.vn](mailto:anhtt@ptiti.edu.vn)     | Lý lịch khoa học     |
+| TS. Dương Quang Duy       | Giảng viên                                  | [duydq@ptiti.edu.vn](mailto:duydq@ptiti.edu.vn)     | Lý lịch khoa học     |
+| TS. Nguyễn Văn Thắng      | Giảng viên                                  | [thangnv1@ptit.edu.vn](mailto:thangnv1@ptit.edu.vn) | Lý lịch khoa học     |
+| ThS. Trương Minh Đức      | Giảng viên                                  | [ductm@ptit.edu.vn](mailto:ductm@ptit.edu.vn)       | Lý lịch khoa học     |
+| ThS. Nguyễn Văn Thành     | Giảng viên                                  | [thanhnv@ptiti.edu.vn](mailto:thanhnv@ptiti.edu.vn) | Lý lịch khoa học     |
+| ThS. Bùi Thị Dân          | Giảng viên chính                            | [danbt@ptit.edu.vn](mailto:danbt@ptit.edu.vn)       | Lý lịch khoa học     |
+| ThS. Nguyễn Quốc Dinh     | Giảng viên chính                            | [dinhnq@ptit.edu.vn](mailto:dinhnq@ptit.edu.vn)     | Lý lịch khoa học     |
+| ThS. Đào Thanh Huyền      | Giảng viên                                  | [huyendt@ptit.edu.vn](mailto:huyendt@ptit.edu.vn)   | Lý lịch khoa học     |
+| ThS. Lê Đức Toàn          | Giảng viên                                  | [toanld@ptit.edu.vn](mailto:toanld@ptit.edu.vn)     | Lý lịch khoa học     |
+| ThS. Dương Thị Thúy Hồng  | Trợ lý khoa                                 | [hongdt@ptit.edu.vn](mailto:hongdt@ptit.edu.vn)     | Lý lịch khoa học     |
+| ThS. Lương Công Duẩn      | Giảng viên                                  | [duanlc@ptit.edu.vn](mailto:duanlc@ptit.edu.vn)     | Lý lịch khoa học     |
+| ThS. Trần Thị Thanh Thủy  | Giảng viên                                  | [thuyttt@ptit.edu.vn](mailto:thuyttt@ptit.edu.vn)   | Lý lịch khoa học     |
+| ThS. Nguyễn Quang Biên    | Giảng viên                                  | [biennq@ptit.edu.vn](mailto:biennq@ptit.edu.vn)     | Lý lịch khoa học     |
+| ThS. Chu Văn Cường        | Giảng viên                                  | [cuongcv@ptit.edu.vn](mailto:cuongcv@ptit.edu.vn)   | Lý lịch khoa học     |
+| ThS. Phạm Văn Sự          | Giảng viên chính                            | [supv@ptiti.edu.vn](mailto:supv@ptiti.edu.vn)       | Lý lịch khoa học     |
+| ThS. Đinh Quang Ngọc      | Giảng viên                                  | [ngocdq@ptit.edu.vn](mailto:ngocdq@ptit.edu.vn)     | Lý lịch khoa học     |
+| KS. Vương Viết Thao       | Giảng viên                                  | [thaovv@ptit.edu.vn](mailto:thaovv@ptit.edu.vn)     | Lý lịch khoa học     |
+

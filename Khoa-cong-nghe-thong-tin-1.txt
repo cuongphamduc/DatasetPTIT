@@ -1,0 +1,94 @@
+I.Thông tin chung
+KHOA CÔNG NGHỆ THÔNG TIN 1
+url: https://it.ptit.edu.vn/thong-tin-chung/
+
+Chức năng:
+ - Khoa Công nghệ thông tin 1 là đơn vị đào tạo trực thuộc Học viện Công nghệ Bưu chính Viễn thông (dưới đây gọi tắt là Học viện) có chức năng đào tạo và nghiên cứu khoa học thuộc lĩnh vực Công nghệ thông tin (Công nghệ thông tin, Công nghệ phần mềm, Hệ thống thông tin, Khoa học máy tính, Kỹ thuật máy tính).
+Nhiệm vụ:
+ - Quản lý, tổ chức giảng dạy các môn học, học phần do khoa quản lý cho các hệ (hình thức đào tạo và trình độ đào tạo) đào tạo của Học viện;
+Lập kế hoạch và tổ chức thực hiện các hoạt động giáo dục đào tạo theo kế hoạch chung của Học viện;
+Lập kế hoạch và tổ chức thực hiện các hoạt động khoa học và công nghệ, hợp tác quốc tế; hợp tác với các tổ chức khoa học và công nghệ, cơ sở sản xuất, kinh doanh liên quan đến ngành nghề đào tạo và huy động sự tham gia của doanh nghiệp và quá trình đào tạo của khoa;
+Xây dựng kế hoạch và tổ chức thực hiện công tác giáo dục chính trị, tư tưởng, đạo đức, lối sống cho cán bộ, giảng viên và người học thuộc khoa;
+Xây dựng kế hoạch phát triển đội ngũ giảng viên; ngành nghề đào tạo và cơ sở vật chất phục vụ cho đào tạo và nghiên cứu khoa học, tăng cường điều kiện bảo đảm chất lượng đào tạo;
+Đề xuất thay đổi về tổ chức, nhân sự trong khoa; quản lý cán bộ, giảng viên và người học thuộc khoa, tổ chức đánh giá theo quy định của Học viện; tham gia đánh giá cán bộ quản lý trong Học viện;
+Quản lý tài sản, kinh phí được giao theo quy định của Học viện; thực hiện chế độ báo cáo theo quy định và chịu trách nhiệm về số liệu báo cáo;
+Tổ chức thực hiện các chủ trương chính sách, chỉ thị, nghị quyết, quy chế, quy định của cấp trên; phối hợp và tạo điều kiện cho tổ chức Công đoàn, Đoàn thanh niên Cộng sản Hồ Chí Minh và các đoàn thể khác hoạt động thực hiện tốt điều lệ, chức năng, nhiệm vụ của tổ chức mình; tổ chức các phong trào thi đua dạy tốt, học tốt và các nội dung thi đua khác trong khoa;
+Thực hiện các công việc khác do Giám đốc Học viện giao.
+
+
+II.Các tổ chức đoàn thể - CNTT1
+url: https://it.ptit.edu.vn/cac-to-chuc-doan-the/
+
+Ban Chấp hành Công đoàn Khoa gồm 03 đồng chí:
+1	ThS. Nguyễn Mạnh Sơn	Chủ tịch công đoàn Khoa
+2	ThS. Nguyễn Thị Thanh Thủy	Phó chủ tịch Công đoàn Khoa
+3	TS. Nguyễn Tất Thắng	Uỷ viên BCH CĐ Khoa
+
+Ban Chấp hành Liên Chi đoàn Khoa gồm:
+ - Bí thư Liên Chi đoàn: Sinh viên Nguyễn Thành Hưng
+
+
+III.Cơ cấu tổ chức - CNTT1
+url: https://it.ptit.edu.vn/co-cau-to-chuc/
+
+
+Địa chỉ:	 Tầng 9, nhà A2, Km10, Nguyễn Trãi, Hà Đông, Hà Nội
+Điện thoại:	 04. 38545604
+Trưởng khoa:	 TS. Nguyễn Duy Phương
+Email:	 phuongnd@ptit.edu.vn
+
+IV.Danh sách Cán bộ - CNTT1
+url: https://it.ptit.edu.vn/danh-sach-can-bo/
+
+Bộ môn Công nghệ phần mềm:
+| TT | Họ và tên                | Chức vụ       | Email                                                             |
+| -- | ------------------------ | ------------- | ----------------------------------------------------------------- |
+| 1  | TS. Nguyễn Duy Phương    | Trưởng Khoa   | [phuongnd@ptit.edu.vn](mailto:phuongnd@ptit.edu.vn)               |
+| 2  | PGS.TS. Nguyễn Mạnh Hùng | Trưởng Bộ môn | [mhnguyen@ptit.edu.vn](mailto:mhnguyen@ptit.edu.vn)               |
+| 3  | PGS.TS. Trần Đình Quế    | Giảng viên    | [tdque@yahoo.com](mailto:tdque@yahoo.com)                         |
+| 4  | PGS.TS. Đỗ Trung Tuấn    | Giảng viên    | [tuandt@ptit.edu.vn](mailto:tuandt@ptit.edu.vn)                   |
+| 5  | PGS.TS. Hoàng Hữu Hạnh   | Giảng viên    | [hhhanh@ptit.edu.vn](mailto:hhhanh@ptit.edu.vn)                   |
+| 6  | TS. Đào Ngọc Phong       | Giảng viên    | [phongdn.aivietnam@gmail.com](mailto:phongdn.aivietnam@gmail.com) |
+| 7  | TS. Đỗ Thị Bích Ngọc     | Giảng viên    | [ngocdtb@ptit.edu.vn](mailto:ngocdtb@ptit.edu.vn)                 |
+| 8  | TS. Đỗ Thị Liên          | Giảng viên    | [liendt@ptit.edu.vn](mailto:liendt@ptit.edu.vn)                   |
+| 9  | TS. Dương Khánh Chương   | Giảng viên    | [chuongdk@ptit.edu.vn](mailto:chuongdk@ptit.edu.vn)               |
+| 10 | TS. Trần Nhật Quang      | Giảng viên    | [quangtn@ptit.edu.vn](mailto:quangtn@ptit.edu.vn)                 |
+| 11 | ThS. Nguyễn Đình Hiến    | Giảng viên    | [ndhien0208@gmail.com](mailto:ndhien0208@gmail.com)               |
+| 12 | ThS. Trịnh Thị Vân Anh   | Giảng viên    | [vanh22@yahoo.com](mailto:vanh22@yahoo.com)                       |
+| 13 | ThS. Nguyễn Mạnh Sơn     | Giảng viên    | [sonnm@ptit.edu.vn](mailto:sonnm@ptit.edu.vn)                     |
+| 14 | ThS. Nguyễn Hoàng Anh    | Giảng viên    | [anhnh@ptit.edu.vn](mailto:anhnh@ptit.edu.vn)                     |
+| 15 | TS. Đặng Ngọc Hùng       | Giảng viên    | [hungdn@ptit.edu.vn](mailto:hungdn@ptit.edu.vn)                   |
+| 16 | ThS. Nguyễn Văn Tiến     | Giảng viên    | [tiennv@ptit.edu.vn](mailto:tiennv@ptit.edu.vn)                   |
+| 17 | ThS. Ngô Tiến Đức        | Giảng viên    | [ducnt@ptit.edu.vn](mailto:ducnt@ptit.edu.vn)                     |
+
+Bộ môn Hệ thống thông tin:
+| TT | Họ và tên                  | Chức vụ       | Email                                                     |
+| -- | -------------------------- | ------------- | --------------------------------------------------------- |
+| 19 | PGS.TS. Nguyễn Trọng Khánh | Trưởng Bộ môn | [khanhnt@ptit.edu.vn](mailto:khanhnt@ptit.edu.vn)         |
+| 20 | PGS.TS. Nguyễn Quang Hoan  | Giảng viên    | [quanghoanptit@gmail.com](mailto:quanghoanptit@gmail.com) |
+| 21 | PGS.TS. Hà Hải Nam         | Giảng viên    | [namhh@ptit.edu.vn](mailto:namhh@ptit.edu.vn)             |
+| 22 | TS. Dương Trần Đức         | Giảng viên    | [ducdt@ptit.edu.vn](mailto:ducdt@ptit.edu.vn)             |
+| 23 | TS. Phan Thị Hà            | Giảng viên    | [hapt@ptit.edu.vn](mailto:hapt@ptit.edu.vn)               |
+| 24 | TS. Nguyễn Quang Hưng      | Giảng viên    | [hungnq@mic.gov.vn](mailto:hungnq@mic.gov.vn)             |
+| 25 | TS. Nguyễn Đình Hóa        | Giảng viên    | [hoand@ptit.edu.vn](mailto:hoand@ptit.edu.vn)             |
+| 26 | TS. Nguyễn Thanh Thủy      | Giảng viên    | [thuynt@ptit.edu.vn](mailto:thuynt@ptit.edu.vn)           |
+| 27 | ThS. Nguyễn Xuân Anh       | Giảng viên    | [anhnx@ptit.edu.vn](mailto:anhnx@ptit.edu.vn)             |
+| 28 | ThS. Nguyễn Quỳnh Chi      | Giảng viên    | [chinq@ptit.edu.vn](mailto:chinq@ptit.edu.vn)             |
+
+Bộ môn Khoa học máy tính:
+| TT | Họ và tên                | Chức vụ              | Email                                               |
+| -- | ------------------------ | -------------------- | --------------------------------------------------- |
+| 29 | GS.TS. Từ Minh Phương    | Chủ tịch HĐ Học viện | [phuongtm@ptit.edu.vn](mailto:phuongtm@ptit.edu.vn) |
+| 31 | TS. Nguyễn Tất Thắng     | Phụ trách Bộ môn     | [thangnt@ptit.edu.vn](mailto:thangnt@ptit.edu.vn)   |
+| 32 | TS. Nguyễn Văn Thoả      | Giảng viên           | [thoavv@ptit.edu.vn](mailto:thoavv@ptit.edu.vn)     |
+| 33 | TS. Đào Thị Thuý Quỳnh   | Giảng viên           | [quynhdtt@ptit.edu.vn](mailto:quynhdtt@ptit.edu.vn) |
+| 36 | TS. Nguyễn Quý Sỹ        | Giảng viên           | [synq@ptit.edu.vn](mailto:synq@ptit.edu.vn)         |
+| 37 | TS. Đỗ Tiến Dũng         | Giảng viên           | [dungdt@ptit.edu.vn](mailto:dungdt@ptit.edu.vn)     |
+| 38 | TS. Nguyễn Thị Mai Trang | Giảng viên           | [trangntm@ptit.edu.vn](mailto:trangntm@ptit.edu.vn) |
+| 39 | ThS. Đinh Xuân Trường    | Giảng viên           | [truongdx@ptit.edu.vn](mailto:truongdx@ptit.edu.vn) |
+| 40 | ThS. Vũ Hoài Thư         | Giảng viên           | [thuvh@ptit.edu.vn](mailto:thuvh@ptit.edu.vn)       |
+
+Trợ lý Khoa:
+| Họ và tên                | Chức vụ     | Email                                               |
+| ------------------------ | ----------- | --------------------------------------------------- |
+| KS. Đặng Thị Ngọc Phương | Trợ lý Khoa | [phuongdn@ptit.edu.vn](mailto:phuongdn@ptit.edu.vn) |
