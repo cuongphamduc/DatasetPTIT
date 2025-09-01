@@ -1,0 +1,22 @@
+[GIỚI THIỆU CÂU LẠC BỘ LẬP TRÌNH PTIT]
+✒ Tên đầy đủ: Câu Lạc Bộ Lập Trình PTIT
+🔎 Tên Tiếng Anh: Programming PTIT Club
+🧷 Tên viết tắt: ProPTIT
+📍 Slogan: LẬP TRÌNH PTIT - LẬP TRÌNH TỪ TRÁI TIM
+📌 Phương châm hoạt động: Chia sẻ để cùng nhau phát triển
+📖📖 Vào ngày 9/10/2011, CLB Lập Trình PTIT đã chính thức được thành lập nhằm nâng cao phong trào học lập trình của sinh viên trong và ngoài học viện. CLB là nơi hội tụ của các bạn trẻ đam mê lập trình và có mong muốn được phát triển bản thân. Tại đây, các thành viên được thỏa sức giao lưu, nghiên cứu các dự án, học tập các môn lập trình và các môn học sát với chương trình đào tạo của trường.
+🌈🌈  Hiện tại, ProPTIT có 4 team dự án:
+✨ Team Web
+✨ Team Mobile
+✨ Team AI & Data
+✨ Team Game
+✏✏ Ngoài ra, khi tham gia vào ProPTIT, các bạn sinh viên còn được trau dồi thêm các kỹ năng cần thiết như: kỹ năng làm việc nhóm, kỹ năng thuyết trình, kỹ năng tổ chức sự kiện, kỹ năng quản lý nhân sự, dự án…
+📙📙 ProPTIT luôn tạo điều kiện để các bạn sinh viên có một môi trường học tập năng động, sáng tạo và cùng giúp đỡ nhau để có thành tích tốt trong học tập. Hằng năm, ProPTIT tổ chức các hoạt động thường niên để các thành viên trong CLB tham gia. Các hoạt động đó bao gồm:
+⭐ Cuộc thi nội bộ: ProJApp, SPOJ Tournament, PRO PIXEL GAMEJAM, ProCWar…
+⭐ Hoạt động ngoại khóa: Sinh Nhật CLB, MiniGame Malibu, MiniGame CLB, BigGame S2B, Các chuyến đi dã ngoại, ProEsports…
+Ngoài ra, các thành viên trong CLB còn được tham gia các cuộc thi trong và ngoài trường và đạt được rất nhiều thành tích đáng nể, tiêu biểu như sau:
+🏆 Cuộc thi Trí Tuệ Nhân Tạo: Giải Nhất cuộc thi Vietnam AI Grand Challenge National, Giải Nhì cuộc thi Vietnam AI Grand Challenge Hanoi, Giải Nhất Zalo AI Challenge,...
+🏆 Cuộc thi Thuật Toán: Giải Vô Địch Chuyên Tin Olympic Tin Học Sinh Viên Việt Nam, Giải Nhì vòng ICPC National, Giải Ba ICPC Miền Bắc, Giải Nhất Đồng Đội Chuyên Tin,...
+🏆 Cuộc thi Hackathon: Quán quân Coding Fest 2025, Giải Ba P-Innovation 2025, Giải Nhất Global Game Jam 2025, Top 3 FOSSASIA Hackathon…
+🍀Muốn đi nhanh, hãy đi một mình
+🍀Muốn đi xa, hãy đi cùng nhau
