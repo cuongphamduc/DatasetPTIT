@@ -1,0 +1,24 @@
+Thông tin PAYT CLUB - PTIT AI Young Talents
+PAYT - Câu lạc bộ trí tuệ nhân tạo PTIT được thành lập vào ngày 03/06/2025
+Câu lạc bộ gồm 5 ban chính : 
+Ban phần mềm:  Có nhiệm vụ thực hiện huấn luyện, tham gia vào các dự án dưới vai trò hỗ trợ phần mềm, trong đó: 
+Mảng Full Stack Web: Thiết kế giao diện cho website, xây dựng cấu trúc logic, luồng hoạt động cho website, đẩy lên server phục vụ cho dự án.
+ Mảng Mobile: Xây dựng app cho các dự án yêu cầu sử dụng trên điện thoại.
+Ban AI Research:  Có nhiệm vụ thực hiện huấn luyện, tham gia vào các dự án dưới vai trò nghiên cứu, trong đó :
+Survey các phương pháp cho bài toán trong dự án với các dự án yêu cầu phức tạp, sau đó đề xuất cho ban AI Engineer để thực hiện lập trình và triển khai
+ Nhận bài toán hay hướng nghiên cứu từ các cố vấn để tham gia viết bài báo nghiên cứu khoa học
+Ban AI Engineer:  Có nhiệm vụ thực hiện huấn luyện, tham gia vào các dự án dưới vai trò triển khai dự án, trong đó :
+Thực hiện xây dựng, huấn luyện các mô hình AI cơ bản với các dự án yêu cầu ở mức trung bình, không cần survey các phương pháp tối ưu
+ Thực hiện xây dựng hướng đi mà ban nghiên cứu đề xuất trong trường hợp với các dự án phức tạp, yêu cầu survey các phương pháp tối ưu cho dự án
+Triển khai thành api hoặc đóng gói thành mô hình nhỏ để ban phần mềm dễ dàng sử dụng
+Ban nhân sự: Quản lý nguồn nhân lực, bao gồm việc quản lý danh sách và số lượng thành viên, tuyển dụng, phân công nhiệm vụ, xây dựng nội quy, và tạo kết nối, gắn kết giữa các thành viên để CLB hoạt động hiệu quả và phát triển bền vững. Đồng thời chịu trách nhiệm phân phối nhân sự và 
+Ban truyền thông: Phụ trách quảng bá, xây dựng hình ảnh cho câu lạc bộ, tổ chức các sự kiện, duy trì các kênh thông tin của câu lạc bộ như website, fanpage. Có nhiệm vụ tham gia các hoạt động về truyền thông do khoa Trí tuệ nhân tạo tổ chức: tổ chức thông tin, tuyên truyền, giới thiệu tổ chức sự kiện trong CLB; thu thập hình ảnh, tin tức về các hoạt động, phong trào của CLB, tạo nguồn thông tin cập nhật.
+Với 3 ban phần mềm, AI research, AI engineer sẽ chia thành viên thành 3 cấp bậc: Senior, Junior, Fresher.
+Nhiệm vụ của Senior : Chịu trách nhiệm đào tạo các bạn fresher theo lộ trình, đồng thời quản lý và lãnh đạo các bạn junior tham gia các dự án do Học viện và khoa yêu cầu hoặc những dự án liên kết với các doanh nghiệp.
+Nhiệm vụ của Junior : Tham gia vào các dự án được các senior sắp xếp và hướng dẫn
+Nhiệm vụ của Fresher : Tham gia quá trình đào tạo dưới sự hướng dẫn của các senior, sau đó sẽ có kỳ thi sát hạch để lên cấp bậc junior.
+Với 2 ban nhân sự và truyền thông sẽ chia làm 3 cấp bậc: Trưởng ban, phó ban, thành viên
+Trưởng ban: chịu trách nhiệm điều hành, lên kế hoạch hoạt động cho ban của mình, đồng thời kiểm soát chất lượng đầu ra sản phẩm
+Phó ban: hỗ trợ trưởng ban trong việc kiểm soát đầu ra sản phẩm
+Thành viên: tuân thủ điều lệ và quy chế, tham gia tích cực vào hoạt động và sinh hoạt CLB, hoàn thành nhiệm vụ được giao, góp phần xây dựng và nâng cao uy tín CLB
+
