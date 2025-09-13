@@ -1,0 +1,238 @@
+## LỊCH HỌP, LÀM VIỆC  
+CỦA CỐ VẤN HỌC TẬP VÀ CÁC LỚP SINH VIÊN  
+HỆ ĐẠI HỌC CHÍNH QUY KHÓA 2025 
+
+### Nhóm 1: Các ngành: Công nghệ thông tin, CNTT Việt Nhật  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính (học kỳ 1) | Cố vấn học tập | Lịch họp đầu khóa (buổi, ngày, phòng) |
+|----|-------------|-------|--------------------------------------|----------------|---------------------------------------|
+| 1  | D25CQCN01-B |       | QLDT.PTIT.EDU.VN                     | Phạm Đức Cường - Khoa AI (0787111997) | Sáng (11h30) Thứ 2 (15/09/2025). P: 101-A2 |
+| 2  | D25CQCN02-B |       | QLDT.PTIT.EDU.VN                     | Phạm Đức Cường - Khoa AI (0787111997) | Sáng (11h30) Thứ 3 (16/09/2025). P: 101-A2 |
+| 3  | D25CQCN03-B |       | QLDT.PTIT.EDU.VN                     | Nguyễn Đình Quảng - Khoa CNTT (0971824607) | Sáng (11h30) Thứ 4 (17/09/2025). P: 101-A2 |
+| 4  | D25CQCN04-B |       | QLDT.PTIT.EDU.VN                     | Nguyễn Thị Mai Trang - Khoa CNTT (0865755525) | Sáng (11h30) Thứ 5 (18/09/2025). P: 101-A2 |
+| 5  | D25CQCN05-B |       | QLDT.PTIT.EDU.VN                     | Nguyễn Thị Mai Trang - Khoa CNTT (0865755525) | Sáng (11h30) Thứ 6 (19/09/2025). P: 101-A2 |
+| 6  | D25CQCN06-B |       | QLDT.PTIT.EDU.VN                     | Phạm Thị Lệ Hằng - Khoa AI (0984581398) | Sáng (11h30) Thứ 2 (15/09/2025). P: 201-A2 |
+| 7  | D25CQCN07-B |       | QLDT.PTIT.EDU.VN                     | Phạm Thị Lệ Hằng - Khoa AI (0984581398) | Sáng (11h30) Thứ 3 (16/09/2025). P: 201-A2 |
+| 8  | D25CQCN08-B |       | QLDT.PTIT.EDU.VN                     | Trương Thị Tú Oanh - TT Khảo thí & ĐBCLGD (0979455436) | Sáng (11h30) Thứ 4 (17/09/2025). P: 201-A2 |
+| 9  | D25CQCN09-B |       | QLDT.PTIT.EDU.VN                     | Trương Thị Tú Oanh - TT Khảo thí & ĐBCLGD (0979455436) | Sáng (11h30) Thứ 5 (18/09/2025). P: 201-A2 |
+| 10 | D25CQCN10-B |       | QLDT.PTIT.EDU.VN                     | Phạm Thị Tố Nga - TT Khảo thí & ĐBCLGD (0904743949) | Sáng (11h30) Thứ 6 (19/09/2025). P: 201-A2 |
+| 11 | D25CQCN11-B |       | QLDT.PTIT.EDU.VN                     | Phạm Thị Tố Nga - TT Khảo thí & ĐBCLGD (0904743949) | Sáng (11h30) Thứ 2 (15/09/2025). P: 403-A2 |
+
+#### Công nghệ thông tin Việt Nhật
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính (học kỳ 1) | Cố vấn học tập | Lịch họp đầu khóa (buổi, ngày, phòng) |
+|----|-------------|-------|--------------------------------------|----------------|---------------------------------------|
+| 12 | D25CQVN01-B |       | QLDT.PTIT.EDU.VN | Phạm Trần Cẩm Vân - Trung tâm ĐTQT (0912906607) | Sáng (11h30) Thứ 3 (16/09/2025). P: 403-A2 |
+| 13 | D25CQVN02-B |       | QLDT.PTIT.EDU.VN | Nguyễn Ngọc Linh - Trung tâm ĐTQT (0913894369) | Sáng (11h30) Thứ 4 (17/09/2025). P: 403-A2 |
+
+---
+
+### Nhóm 2: Các ngành: CNTT Chất lượng cao, Cử nhân CNTT (định hướng ứng dụng)  
+
+#### Ngành Công nghệ thông tin Chất lượng cao  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính (học kỳ 1) | Cố vấn học tập | Lịch họp đầu khóa (buổi, ngày, phòng) |
+|----|-------------|-------|--------------------------------------|----------------|---------------------------------------|
+| 14 | D25CQCE01-B |       | QLDT.PTIT.EDU.VN | Đỗ Thị Liên - Khoa CNTT (0936633466) | Sáng (11h30) Thứ 5 (18/09/2025). P: 403-A2 |
+| 15 | D25CQCE02-B |       | QLDT.PTIT.EDU.VN | Đặng Ngọc Hùng - Khoa CNTT (0915868794) | Sáng (11h30) Thứ 6 (19/09/2025). P: 403-A2 |
+| 16 | D25CQCE03-B |       | QLDT.PTIT.EDU.VN | Đỗ Thị Bích Ngọc - Khoa CNTT (0912084382) | Sáng (11h30) Thứ 2 (15/09/2025). P: 503-A2 |
+| 17 | D25CQCE04-B |       | QLDT.PTIT.EDU.VN | Ngô Tiến Đức - Khoa CNTT (0979073995) | Sáng (11h30) Thứ 3 (16/09/2025). P: 503-A2 |
+| 18 | D25CQCE05-B |       | QLDT.PTIT.EDU.VN | Vũ Hoài Nam - Khoa AI (0975401890) | Sáng (11h30) Thứ 4 (17/09/2025). P: 503-A2 |
+| 19 | D25CQCE06-B |       | QLDT.PTIT.EDU.VN | Nguyễn Kiều Linh - Khoa AI (0985059646) | Sáng (11h30) Thứ 5 (18/09/2025). P: 503-A2 |
+| 20 | D25CQCE07-B |       | QLDT.PTIT.EDU.VN | Hoàng Thị Nương - Phòng Đào tạo (0917444863) | Sáng (11h30) Thứ 6 (19/09/2025). P: 503-A2 |
+
+#### Cử nhân CNTT (định hướng ứng dụng)  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính (học kỳ 1) | Cố vấn học tập | Lịch họp đầu khóa (buổi, ngày, phòng) |
+|----|-------------|-------|--------------------------------------|----------------|---------------------------------------|
+| 21 | D25CQCC01-B |       | QLDT.PTIT.EDU.VN | Ngô Văn Nhận - Viện Khoa học KTBĐ (0888726113) | Sáng (11h30) Thứ 2 (15/09/2025). P: 603-A2 |
+| 22 | D25CQCC02-B |       | QLDT.PTIT.EDU.VN | Ngô Văn Nhận - Viện Khoa học KTBĐ (0888726113) | Sáng (11h30) Thứ 3 (16/09/2025). P: 603-A2 |
+| 23 | D25CQCC03-B |       | QLDT.PTIT.EDU.VN | Nguyễn Hồng Anh Tấn - Viện Khoa học KTBĐ (0848299482) | Sáng (11h30) Thứ 4 (17/09/2025). P: 603-A2 |
+| 24 | D25CQCC04-B |       | QLDT.PTIT.EDU.VN | Nguyễn Hồng Anh Tấn - Viện Khoa học KTBĐ (0848299482) | Sáng (11h30) Thứ 5 (18/09/2025). P: 603-A2 |
+| 25 | D25CQCC05-B |       | QLDT.PTIT.EDU.VN | Nguyễn Việt Dũng - Viện Khoa học KTBĐ (0986682194) | Sáng (11h30) Thứ 6 (19/09/2025). P: 603-A2 |
+| 26 | D25CQCC06-B |       | QLDT.PTIT.EDU.VN | Nguyễn Việt Dũng - Viện Khoa học KTBĐ (0986682194) | Sáng (11h30) Thứ 2 (15/09/2025). P: 703-A2 |
+
+---
+
+### Nhóm 3: Các ngành: Marketing chất lượng cao, Kế toán chất lượng cao, Truyền thông đa phương tiện chất lượng cao, An toàn thông tin chất lượng cao  
+
+#### Ngành Marketing chất lượng cao  
+
+| TT | Lớp         | Buổi học, phòng học chính (học kỳ 1) | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|--------------------------------------|----------------|-------------------|
+| 27 | D25CQME01-B | QLDT.PTIT.EDU.VN | Trần Thanh Hương - Viện KTBĐ (0932235555) | Sáng (11h30) Thứ 3 (16/09/2025). P: 702-A2 |
+| 28 | D25CQME02-B | QLDT.PTIT.EDU.VN | Nguyễn Thị Thu Thảo - Viện KTBĐ (0968539628) | Sáng (11h30) Thứ 4 (17/09/2025). P: 702-A2 |
+| 29 | D25CQME03-B | QLDT.PTIT.EDU.VN | Hoàng Thị Xuân Mai - Viện KTBĐ (0339484437) | Sáng (11h30) Thứ 5 (18/09/2025). P: 702-A2 |
+
+#### Ngành Kế toán chất lượng cao (ACCA)  
+
+| TT | Lớp         | Buổi học, phòng học chính (học kỳ 1) | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|--------------------------------------|----------------|-------------------|
+| 30 | D25CQKE01-B | QLDT.PTIT.EDU.VN | Trần Phương Linh - Khoa TCKT (0934608089) | Sáng (11h30) Thứ 6 (19/09/2025). P: 702-A2 |
+| 31 | D25CQKE02-B | QLDT.PTIT.EDU.VN | Trịnh Duy Hưng - Khoa TCKT (0943113298) | Sáng (11h30) Thứ 2 (15/09/2025). P: 702-A2 |
+
+#### Truyền thông đa phương tiện - CLC  
+
+| TT | Lớp         | Buổi học, phòng học chính (học kỳ 1) | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|--------------------------------------|----------------|-------------------|
+| 32 | D25CQTE01-B | QLDT.PTIT.EDU.VN | Nguyễn Đình Sơn - Khoa ĐPT (0947165555) | Tối (18h00) Thứ 4 (17/09/2025). P: 801-A2 |
+| 33 | D25CQTE02-B | QLDT.PTIT.EDU.VN | Nguyễn Đình Sơn - Khoa ĐPT (0947165555) | Tối (18h00) Thứ 4 (17/09/2025). P: 702-A2 |
+
+#### An toàn thông tin - CLC  
+
+| TT | Lớp         | Buổi học, phòng học chính (học kỳ 1) | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|--------------------------------------|----------------|-------------------|
+| 34 | D25CQAE01-B | QLDT.PTIT.EDU.VN | Hoàng Xuân Dậu - Khoa ATTT (0904534390) | Tối (18h00) Thứ 5 (18/09/2025). P: 702-A2 |
+| 35 | D25CQAE02-B | QLDT.PTIT.EDU.VN | Đỗ Xuân Chợ - Khoa ATTT (0965068868) | Tối (18h00) Thứ 6 (19/09/2025). P: 702-A2 |
+| 36 | D25CQAE03-B | QLDT.PTIT.EDU.VN | Nguyễn Ngọc Điệp - Khoa ATTT (0898980205) | Tối (18h00) Thứ 2 (15/09/2025). P: 705-A2 |
+
+---
+
+### Nhóm 4: Các ngành: CN Đa phương tiện, KT Điều khiển và Tự động hóa, Điện tử viễn thông  
+
+#### Ngành CN Đa phương tiện  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 37 | D25CQPT01-B | 49    | QLDT.PTIT.EDU.VN | Lê Đình Trinh - Khoa ĐPT (0979099839) | Sáng (11h30) Thứ 3 (16/09/2025). P: 703-A2 |
+| 38 | D25CQPT02-B | 45    | QLDT.PTIT.EDU.VN | Khuất Thị Thu Hà - Khoa ĐPT (0906656786) | Sáng (11h30) Thứ 4 (17/09/2025). P: 703-A2 |
+| 39 | D25CQPT03-B | 53    | QLDT.PTIT.EDU.VN | Nguyễn Thanh Loan - Khoa ĐPT (0988508308) | Sáng (11h30) Thứ 5 (18/09/2025). P: 703-A2 |
+| 40 | D25CQPT04-B | 55    | QLDT.PTIT.EDU.VN | Nguyễn Thị Thanh Tâm - Khoa ĐPT (0973002640) | Sáng (11h30) Thứ 6 (19/09/2025). P: 703-A2 |
+| 41 | D25CQPT05-B | 55    | QLDT.PTIT.EDU.VN | Nguyễn Quang Ngọc - Khoa ĐPT (0945577566) | Sáng (11h30) Thứ 2 (15/09/2025). P: 705-A2 |
+
+#### Ngành KT Điều khiển và Tự động hóa  
+
+| TT | Lớp         | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|---------------------------|----------------|-------------------|
+| 42 | D25CQDK01-B | QLDT.PTIT.EDU.VN | Mai Thị Nghĩa - Khoa KTĐT (0886468696) | Sáng (11h30) Thứ 3 (16/09/2025). P: 705-A2 |
+| 43 | D25CQDK02-B | QLDT.PTIT.EDU.VN | Hoàng Sơn - Khoa KTĐT (0868147686) | Sáng (11h30) Thứ 4 (17/09/2025). P: 705-A2 |
+
+#### Ngành Điện tử viễn thông  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 44 | D25CQVT01-B | 61    | QLDT.PTIT.EDU.VN | Nguyễn Thị Phương Dung - Khoa VT (0902290808) | Sáng (11h30) Thứ 5 (18/09/2025). P: 705-A2 |
+| 45 | D25CQVT02-B | 57    | QLDT.PTIT.EDU.VN | Vũ Quang Minh - Khoa VT (0367403179) | Sáng (11h30) Thứ 6 (19/09/2025). P: 705-A2 |
+| 46 | D25CQVT03-B | 61    | QLDT.PTIT.EDU.VN | Bùi Quang Chung - Khoa VT (0865746698) | Sáng (11h30) Thứ 2 (15/09/2025). P: 801-A2 |
+| 47 | D25CQVT04-B | 58    | QLDT.PTIT.EDU.VN | Lê Thanh Thủy - Khoa VT (0947709979) | Sáng (11h30) Thứ 3 (16/09/2025). P: 801-A2 |
+| 48 | D25CQVT05-B | 69    | QLDT.PTIT.EDU.VN | Nguyễn Thành Trung - Khoa VT (0979398394) | Sáng (11h30) Thứ 4 (17/09/2025). P: 801-A2 |
+| 49 | D25CQVT06-B | 61    | QLDT.PTIT.EDU.VN | Phạm Anh Thư - Khoa VT (0912528188) | Sáng (11h30) Thứ 5 (18/09/2025). P: 801-A2 |
+| 50 | D25CQVT07-B | 61    | QLDT.PTIT.EDU.VN | Nguyễn Văn Thăng - Khoa VT (0386391643) | Sáng (11h30) Thứ 6 (19/09/2025). P: 801-A2 |
+| 51 | D25CQVT08-B | 61    | QLDT.PTIT.EDU.VN | Phạm Thị Thúy Hiền - Khoa VT (0914330826) | Sáng (11h30) Thứ 2 (15/09/2025). P: 802-A2 |
+
+---
+
+### Nhóm 5: Các ngành: KT Điện-điện tử, An toàn thông tin, Khoa học máy tính  
+
+#### Ngành KT Điện-điện tử  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 52 | D25CQDT01-B | 60    | QLDT.PTIT.EDU.VN | Vũ Anh Đào - Khoa KTĐT (0886131168) | Sáng (11h30) Thứ 3 (16/09/2025). P: 802-A2 |
+| 53 | D25CQDT02-B | 63    | QLDT.PTIT.EDU.VN | Bùi Thị Dân - Khoa KTĐT (0945072222) | Sáng (11h30) Thứ 4 (17/09/2025). P: 802-A2 |
+| 54 | D25CQDT03-B | 65    | QLDT.PTIT.EDU.VN | Nguyễn Thị Hương Thảo - Khoa KTĐT (0915009199) | Sáng (11h30) Thứ 5 (18/09/2025). P: 802-A2 |
+| 55 | D25CQDT04-B | 68    | QLDT.PTIT.EDU.VN | Vương Viết Thao - Khoa KTĐT (0336265363) | Sáng (11h30) Thứ 6 (19/09/2025). P: 802-A2 |
+
+#### Ngành An toàn thông tin  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 56 | D25CQAT01-B | 58    | QLDT.PTIT.EDU.VN | Đinh Trường Duy - Khoa ATTT (0969311090) | Sáng (11h30) Thứ 2 (15/09/2025). P: 205-A3 |
+| 57 | D25CQAT02-B | 64    | QLDT.PTIT.EDU.VN | Đỗ Xuân Chợ - Khoa ATTT (0965068868) | Sáng (11h30) Thứ 3 (16/09/2025). P: 205-A3 |
+| 58 | D25CQAT03-B | 65    | QLDT.PTIT.EDU.VN | Vũ Minh Mạnh - Khoa ATTT (0979023621) | Sáng (11h30) Thứ 4 (17/09/2025). P: 205-A3 |
+| 59 | D25CQAT04-B | 65    | QLDT.PTIT.EDU.VN | Quản Trọng Thế - Khoa ATTT (0989303984) | Sáng (11h30) Thứ 5 (18/09/2025). P: 205-A3 |
+
+#### Khoa học máy tính  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 60 | D25CQKH01-B | 67    | QLDT.PTIT.EDU.VN | Vũ Hoài Thư - Khoa CNTT (0387011735) | Sáng (11h30) Thứ 6 (19/09/2025). P: 205-A3 |
+| 61 | D25CQKH02-B | 67    | QLDT.PTIT.EDU.VN | Phạm Hoàng Việt - Khoa CNTT (0945296388) | Sáng (11h30) Thứ 2 (15/09/2025). P: 207-A3 |
+| 62 | D25CQKH03-B | 67    | QLDT.PTIT.EDU.VN | Nguyễn Xuân Đức - Khoa CNTT (0888867606) | Sáng (11h30) Thứ 3 (16/09/2025). P: 207-A3 |
+
+---
+
+### Nhóm 6: Các ngành: KT Dữ liệu, CN Tài chính, Kế toán, Thương mại điện tử, Quản trị kinh doanh  
+
+#### Mạng máy tính và truyền thông dữ liệu (CT Kỹ thuật dữ liệu)  
+
+| TT | Lớp         | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|---------------------------|----------------|-------------------|
+| 63 | D25CQKD01-B | QLDT.PTIT.EDU.VN | Đặng Trần Lê Anh - Khoa VT (0913000710) | Sáng (11h30) Thứ 4 (17/09/2025). P: 207-A3 |
+| 64 | D25CQKD02-B | QLDT.PTIT.EDU.VN | Vũ Thị Thúy Hà - Khoa VT (0915054369) | Sáng (11h30) Thứ 5 (18/09/2025). P: 207-A3 |
+
+#### Ngành CN Tài chính  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 65 | D25CQTC01-B | 58    | QLDT.PTIT.EDU.VN | Lâm Đức Dương - Khoa TCKT (0942492607) | Sáng (11h30) Thứ 6 (19/09/2025). P: 207-A3 |
+| 66 | D25CQTC02-B | 58    | QLDT.PTIT.EDU.VN | Trần Quốc Khánh - Khoa TCKT (0901701189) | Sáng (11h30) Thứ 2 (15/09/2025). P: 303-A3 |
+| 67 | D25CQTC03-B | 58    | QLDT.PTIT.EDU.VN | Đặng Phong Nguyên - Khoa TCKT (0325756370) | Sáng (11h30) Thứ 3 (16/09/2025). P: 303-A3 |
+
+#### Ngành Kế toán  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 68 | D25CQKT01-B | 55    | QLDT.PTIT.EDU.VN | Lê Thị Ngọc Phương - Khoa TCKT (0904994123) | Sáng (11h30) Thứ 4 (17/09/2025). P: 303-A3 |
+| 69 | D25CQKT02-B | 61    | QLDT.PTIT.EDU.VN | Nguyễn Thị Chinh Lam - Khoa TCKT (0914348434) | Sáng (11h30) Thứ 5 (18/09/2025). P: 303-A3 |
+| 70 | D25CQKT03-B | 62    | QLDT.PTIT.EDU.VN | Lê Thị Ánh - Khoa TCKT (0904848855) | Sáng (11h30) Thứ 6 (19/09/2025). P: 303-A3 |
+
+#### Ngành Thương mại điện tử  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 71 | D25CQTM01-B | 62    | QLDT.PTIT.EDU.VN | Nguyễn Thị Hồng - Khoa QTKD (0904999303) | Sáng (11h30) Thứ 2 (15/09/2025). P: 309-A3 |
+| 72 | D25CQTM02-B | 62    | QLDT.PTIT.EDU.VN | Nguyễn Thanh Nga - Khoa QTKD (0976243290) | Sáng (11h30) Thứ 3 (16/09/2025). P: 309-A3 |
+| 73 | D25CQTM03-B | 62    | QLDT.PTIT.EDU.VN | Trần Thị Thúy Hồng - Khoa QTKD (0865519568) | Sáng (11h30) Thứ 4 (17/09/2025). P: 309-A3 |
+
+#### Ngành Quản trị kinh doanh  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 74 | D25CQQT01-B | 67    | QLDT.PTIT.EDU.VN | Lê Thị Bích Ngọc - Khoa QTKD (0773341826) | Sáng (11h30) Thứ 5 (18/09/2025). P: 309-A3 |
+| 75 | D25CQQT02-B | 69    | QLDT.PTIT.EDU.VN | Lê Thị Bích Ngọc - Khoa QTKD (0773341826) | Sáng (11h30) Thứ 6 (19/09/2025). P: 309-A3 |
+| 76 | D25CQQT03-B | 65    | QLDT.PTIT.EDU.VN | Nguyễn Thị Thanh Bình - Khoa QTKD (0912702689) | Sáng (11h30) Thứ 2 (15/09/2025). P: 311-A3 |
+| 77 | D25CQQT04-B | 65    | QLDT.PTIT.EDU.VN | Nguyễn Thùy Dung - Khoa QTKD (0919865618) | Sáng (11h30) Thứ 3 (16/09/2025). P: 311-A3 |
+
+---
+
+### Nhóm 7: Các ngành: Marketing, Thiết kế và phát triển Game, Quan hệ công chúng, Truyền thông Đa phương tiện, Báo chí  
+
+#### Ngành Marketing  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 78 | D25CQMR01-B | 64    | QLDT.PTIT.EDU.VN | Nguyễn Việt Dũng - Viện KTBĐ (0914776710) | Sáng (11h30) Thứ 4 (17/09/2025). P: 311-A3 |
+| 79 | D25CQMR02-B | 63    | QLDT.PTIT.EDU.VN | Nguyễn Thị Phương Dung - Viện KTBĐ (0914061182) | Sáng (11h30) Thứ 5 (18/09/2025). P: 311-A3 |
+| 80 | D25CQMR03-B | 64    | QLDT.PTIT.EDU.VN | Trần Thanh Hương - Viện KTBĐ (0932235555) | Sáng (11h30) Thứ 6 (19/09/2025). P: 311-A3 |
+| 81 | D25CQMR04-B | 62    | QLDT.PTIT.EDU.VN | Nguyễn Ngọc Anh - Viện KTBĐ (0964911757) | Tối (18h00) Thứ 2 (15/09/2025). P: 403-A2 |
+
+#### Ngành Thiết kế và phát triển Game  
+
+| TT | Lớp         | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|---------------------------|----------------|-------------------|
+| 82 | D25CQGA01-B | QLDT.PTIT.EDU.VN | Cao Minh Thắng - Viện CDIT (0936133144) | Tối (18h00) Thứ 2 (15/09/2025). P: 802-A2 |
+| 83 | D25CQGA02-B | QLDT.PTIT.EDU.VN | Cao Minh Thắng - Viện CDIT (0936133144) | Tối (18h00) Thứ 4 (17/09/2025). P: 403-A2 |
+| 84 | D25CQGA03-B | QLDT.PTIT.EDU.VN | Nguyễn Đức Hoàng - Viện CDIT (0904371818) | Tối (18h00) Thứ 5 (18/09/2025). P: 403-A2 |
+| 85 | D25CQGA04-B | QLDT.PTIT.EDU.VN | Nguyễn Đức Hoàng - Viện CDIT (0904371818) | Tối (18h00) Thứ 6 (19/09/2025). P: 403-A2 |
+
+#### Ngành Quan hệ công chúng  
+
+| TT | Lớp         | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|---------------------------|----------------|-------------------|
+| 86 | D25CQQC01-B | QLDT.PTIT.EDU.VN | Nguyễn Thị Phương Dung - Viện KTBĐ (0914061182) | Tối (18h00) Thứ 2 (15/09/2025). P: 503-A2 |
+| 87 | D25CQQC02-B | QLDT.PTIT.EDU.VN | Nguyễn Thị Thoa - Viện KTBĐ (0986575526) | Tối (18h00) Thứ 4 (17/09/2025). P: 802-A2 |
+
+#### Ngành Truyền thông Đa phương tiện  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 88 | D25CQTT01-B | 65    | QLDT.PTIT.EDU.VN | Nguyễn Phương Thảo - Khoa ĐPT (0947446819) | Tối (18h00) Thứ 4 (17/09/2025). P: 503-A2 |
+| 89 | D25CQTT02-B | 65    | QLDT.PTIT.EDU.VN | Nguyễn Phương Thảo - Khoa ĐPT (0947446819) | Tối (18h00) Thứ 5 (18/09/2025). P: 503-A2 |
+
+#### Ngành Báo chí  
+
+| TT | Lớp         | Sỹ số | Buổi học, phòng học chính | Cố vấn học tập | Lịch họp đầu khóa |
+|----|-------------|-------|---------------------------|----------------|-------------------|
+| 90 | D25CQBC01-B | 65    | QLDT.PTIT.EDU.VN | Nguyễn Thị Ngọc Vân - Khoa ĐPT (0899898400) | Tối (18h00) Thứ 6 (19/09/2025). P: 503-A2 |
+| 91 | D25CQBC02-B | 65    | QLDT.PTIT.EDU.VN | Lê Xuân Mạnh - Khoa ĐPT (0984273395) | Tối (18h00) Thứ 2 (15/09/2025). P: 603-A2 |
