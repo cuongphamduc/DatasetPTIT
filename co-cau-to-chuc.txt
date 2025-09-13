@@ -1,0 +1,40 @@
+URL: https://ptit.edu.vn/gioi-thieu/co-cau-to-chuc/so-do-to-chuc
+
+Các Đơn vị / Phòng ban 2 là ở Hồ Chí Minh, còn lại ở Hà Nội
+
+| Đơn vị / Phòng ban                   | Điện thoại       | Email                                               | Địa chỉ                                            |
+| ------------------------------------ | ---------------- | --------------------------------------------------- | -------------------------------------------------- |
+| Hội đồng Học viện                    | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Đường Nguyễn Trãi, Q. Hà Đông, Hà Nội        |
+| Đảng ủy Học viện                     | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Đường Nguyễn Trãi, Q. Hà Đông, Hà Nội        |
+| Ban giám đốc                         | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Đường Nguyễn Trãi, Q. Hà Đông, Hà Nội        |
+| Công đoàn và Đoàn thanh niên         | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Đường Nguyễn Trãi, Q. Hà Đông, Hà Nội        |
+| Văn phòng                            | (024) 38.544.451 | [vanphong@ptit.edu.vn](mailto:vanphong@ptit.edu.vn) | Tầng 2, nhà A1, Km10, Nguyễn Trãi, Hà Đông, Hà Nội |
+| Phòng Tổ chức Cán bộ - Lao động      | 024 3756 2186    | [tccb@ptit.edu.vn](mailto:tccb@ptit.edu.vn)         | Tầng 2, nhà A1, Km10, Nguyễn Trãi, Hà Đông, Hà Nội |
+| Phòng Chính trị & Công tác sinh viên | (024) 38 547 795 | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Tầng 1, nhà A1, Học viện CN BCVT                   |
+| Phòng Giáo vụ                        | (024) 38 547 797 | [giaovu@ptit.edu.vn](mailto:giaovu@ptit.edu.vn)     | Tầng 1, nhà A1, Học viện CN BCVT                   |
+| Phòng Tài chính Kế toán              | (024) 38 547 796 | [tckt@ptit.edu.vn](mailto:tckt@ptit.edu.vn)         | Tầng 1, nhà A1, Học viện CN BCVT                   |
+| Phòng Kế hoạch & Đầu tư              | 024 3756 2186    | [khdt@ptit.edu.vn](mailto:khdt@ptit.edu.vn)         | Nhà B14, Học viện CN BCVT                          |
+| Phòng Đào tạo                        | (024) 3351 2252  | [daotao@ptit.edu.vn](mailto:daotao@ptit.edu.vn)     | Tầng 2, nhà A1, Km10, Nguyễn Trãi, Hà Đông         |
+| Phòng Quản lý KHCN & Hợp tác QT      | 024 3352 4054    | [khcnhtqt@ptit.edu.vn](mailto:khcnhtqt@ptit.edu.vn) | Tầng 1, nhà A3, Km10, Nguyễn Trãi, Hà Đông         |
+| Trung tâm Dịch vụ                    | 024 3854 4256    | [ttdv@ptit.edu.vn](mailto:ttdv@ptit.edu.vn)         | Nhà B14, Km10, Nguyễn Trãi, Hà Đông                |
+| Trung tâm Khảo thí & Đảm bảo CLGD    | 024 3854 3664    | [khaothi@ptit.edu.vn](mailto:khaothi@ptit.edu.vn)   | Tầng 1, nhà A1, Km10, Nguyễn Trãi, Hà Đông         |
+| Trung tâm Thí nghiệm Thực hành       | 024 3756 2186    | [tttnth@ptit.edu.vn](mailto:tttnth@ptit.edu.vn)     | Tầng 5,6, nhà A3, Km10, Nguyễn Trãi, Hà Đông       |
+| Trung tâm Đào tạo quốc tế            | (024) 33 525 741 | [cie@ptit.edu.vn](mailto:cie@ptit.edu.vn)           | Tầng 5, nhà A1, Km10, Nguyễn Trãi, Hà Đông         |
+| Viện Kinh tế Bưu điện (ERIPT)        | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Viện CNTT & Truyền thông (CDIT)      | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Viện KH Kỹ thuật Bưu điện (RIPT)     | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Trí tuệ Nhân tạo                | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Cơ bản 1                        | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa CNTT 1                          | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Viễn thông 1                    | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Kỹ thuật Điện tử 1              | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Quản trị Kinh doanh 1           | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Đa phương tiện                  | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa An toàn thông tin               | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Tài chính Kế toán 1             | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Đào tạo sau đại học             | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa CNTT 2                          | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Kỹ thuật Điện tử 2              | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Viễn thông 2                    | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Cơ bản 2                        | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
+| Khoa Quản trị Kinh doanh 2           | 024 3756 2186    | [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn)         | Km10, Nguyễn Trãi, Hà Đông                         |
